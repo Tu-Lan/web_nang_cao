@@ -28,8 +28,8 @@
 			<ul>
 				<li><a href="Trangchu.aspx">HOME</a></li>
 				
-				<li><a  href="giaynam.aspx">MEN'S</a></li>
-				<li><a href="giaynu.aspx">WOMEN'S</a></li>
+				<li><a  href="phone_lap.aspx">PHONE & LAPTOP</a></li>
+				<li><a href="accessory.aspx">ACCESSORY</a></li>
 				<li><a href="Lienhe.aspx">CONTACT</a></li>
 				<li><a href="gioithieu.aspx">ABOUT US</a></li>
 				<li>
@@ -55,7 +55,7 @@
 				</div>
 
 				<div class="content">
-					<!--<p><a href="Trangchu.aspx">HOME</a> / <a href="giaynu.aspx">WOMEN'S SHOES</a></p> -->
+					<!--<p><a href="Trangchu.aspx">HOME</a> / <a href="accessory.aspx">ACCESSORY SHOES</a></p> -->
 					<h1 class="header-content"><%# Eval("Name") %></h1>
 					<hr width="20px" />
 					<p style="font-size:45px;color: #C89979;   " class="header-content"><b><%# Eval("Price") %> $ </b></p>
@@ -80,8 +80,8 @@
 			<div class="footer-section">
 				<h1>SHOP</h1>
 				<ul>
-					<li><a href="giaynam.aspx">MEN'S</a></li>
-					<li><a href="giaynu.aspx">WOMEN'S</a></li>
+					<li><a href="phone_lap.aspx">PHONE & LAPTOP</a></li>
+					<li><a href="accessory.aspx">ACCESSORY</a></li>
 					<li><a href="Lienhe.aspx">CONTACT</a></li>
 					<li><a href="gioithieu.aspx">ABOUT US</a></li>
 				</ul>

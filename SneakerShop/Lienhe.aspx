@@ -7,7 +7,6 @@
     <title>Liên hệ</title>
     <link href="Style/Lienhe.css" rel="stylesheet" />
 	<script>
-        
         function ktra() {
             var ipTen = document.getElementById("usernameL").value;
 			var ipEmail = document.getElementById("Email").value;
@@ -124,7 +123,4 @@
 	</div>
 	 
 </body>
-
-	
- 
 </html>

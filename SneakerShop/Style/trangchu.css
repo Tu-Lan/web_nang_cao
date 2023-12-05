@@ -193,7 +193,7 @@ html, body {
 .left {
     width: 45%;
     height: 300px;
-    background: url(../images/giaynam.png);
+    background: url(../images/web1.png);
     float: left;
     margin-left: 3%;
     background-repeat: no-repeat;
@@ -247,7 +247,7 @@ html, body {
     margin: 0 4% 0 3%;
     width: 45%;
     height: 300px;
-    background: url(../images/giaynu.png);
+    background: url(../images/web2.png);
     float: left;
     background-repeat: no-repeat;
     background-size: 100% 100%;

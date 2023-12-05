@@ -43,7 +43,7 @@
 
     <div class="gioithieu">
         <div class="gioithieu_column_one">
-            <img src="images/about-kick.jpg" alt="lỗi" width="100%">
+            <img src="images/gioithieu.png" alt="lỗi" width="100%">
         </div>
         <div class="gioithieu_column_two">
             <h2>About KickSwap</h2>
@@ -87,7 +87,7 @@ We understand that technology plays a pivotal role in our daily lives, and we ar
         </div>
     </div>
     <div class="section_img">
-        <img src="images/about-kick2.jpg" alt="photo" width="100%">
+        <img src="images/test1.jpg" alt="photo" width="100%">
     </div>
 
     

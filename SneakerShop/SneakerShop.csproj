@@ -84,6 +84,7 @@
     <Content Include="images\banner-fire.png" />
     <Content Include="images\banner-fr.png" />
     <Content Include="images\about-kick2.jpg" />
+    <Content Include="images\bannerchat.png" />
     <Content Include="images\bannerdth.jpg" />
     <Content Include="images\bannernull.jpg" />
     <Content Include="images\dongho-04.jpg" />
@@ -106,6 +107,7 @@
     <Content Include="images\giaynu\product-16.png" />
     <Content Include="images\giaynu\product-17.png" />
     <Content Include="images\giaynu\product-18.png" />
+    <Content Include="images\gioithieu.png" />
     <Content Include="images\Global.png" />
     <Content Include="images\icon.png" />
     <Content Include="images\iphone15.jpg" />
@@ -139,9 +141,12 @@
     <Content Include="images\section_img.jpg" />
     <Content Include="images\sss23ultra.jpg" />
     <Content Include="images\sszfold5.jpg" />
+    <Content Include="images\test1.jpg" />
     <Content Include="images\tintuc1.jpg" />
     <Content Include="images\tintuc2.jpg" />
     <Content Include="images\tintuc3.jpg" />
+    <Content Include="images\web1.png" />
+    <Content Include="images\web2.png" />
     <Content Include="lienhe.js" />
     <Content Include="Style\Dangky.css" />
     <Content Include="Style\Dangnhap.css" />

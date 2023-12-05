@@ -70,7 +70,7 @@
 	 <div class="giay-section">
 		<div class="left">
 			<div class="p_giay">
-				<h2>Perfect for a man</h2>
+				<h2>Just Phone and Laptop</h2>
 				<h1>PHONE & LAP</h1>
 				 <button class="shop-now"><a href="phone_lap.aspx">Shop now </a></button>
 				
@@ -78,7 +78,7 @@
 		</div>
 		<div class="right">
 			<div class="p_giay">
-				<h2>Just for a woman</h2>
+				<h2>Just a Accessory</h2>
 				<h1>ACCESSORY</h1>
 				<button class="shop-now"><a href="accessory.aspx">Shop now </a></button>
 			</div>
@@ -115,7 +115,7 @@
 	<div class="trending">
 		
  	 
-		<img src="images/banner-fire.png" title="Banner" width="auto">
+		<img src="images/bannerchat.png" title="Banner" width="auto">
  
 	</div>  
 	 
